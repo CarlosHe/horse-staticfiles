@@ -47,17 +47,17 @@ uses
 
 function HorseStaticFile(APathRoot: string; const ADefaultFiles: TArray<string> = []): THorseCallback; overload;
 var
-  LHorseJWTCallback: THorseStaticFileCallback;
+  LHorseStaticFileCallback: THorseStaticFileCallback;
 begin
-  LHorseJWTCallback := THorseStaticFileCallback.Create;
+  LHorseStaticFileCallback := THorseStaticFileCallback.Create;
 
   THorseStaticFileManager
     .DefaultManager
     .CallbackList
-    .Add(LHorseJWTCallback);
+    .Add(LHorseStaticFileCallback);
 
   Result :=
-    LHorseJWTCallback
+    LHorseStaticFileCallback
     .SetPathRoot(APathRoot)
     .SetDefaultFiles(ADefaultFiles)
     .Callback;
@@ -100,7 +100,6 @@ begin
     AHorseResponse.RawWebResponse.ContentType := LType;
     AHorseResponse.RawWebResponse.StatusCode := 200;
     AHorseResponse.RawWebResponse.SendResponse;
-    //AHorseResponse.Send('').Status(THTTPStatus.OK);
     raise EHorseCallbackInterrupted.Create;
   end;
 
