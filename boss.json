@@ -1,0 +1,12 @@
+{
+	"name": "horse-staticfiles",
+	"description": "",
+	"version": "2.0.0",
+	"homepage": "",
+	"mainsrc": "src/",
+	"projects": [],
+	"dependencies": {
+		"github.com/HashLoad/horse": "^2.0.0",
+		"github.com/paolo-rossi/delphi-jose-jwt": "^v2.5.2"
+	}
+}
