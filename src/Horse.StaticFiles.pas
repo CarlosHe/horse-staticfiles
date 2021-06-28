@@ -99,7 +99,6 @@ begin
     TMimeTypes.Default.GetFileInfo(LNormalizeFileName, LType, LKind);
     AHorseResponse.RawWebResponse.ContentType := LType;
     AHorseResponse.RawWebResponse.StatusCode := 200;
-    AHorseResponse.RawWebResponse.SendResponse;
     raise EHorseCallbackInterrupted.Create;
   end;
 
