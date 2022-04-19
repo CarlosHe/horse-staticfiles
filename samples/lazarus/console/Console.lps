@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Console.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="50" Y="17"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="modules\horse\src\Horse.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="127"/>
+        <CursorPos X="7" Y="144"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\GitHub\horse\src\Horse.Core.RouterTree.pas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="179"/>
+        <CursorPos X="86" Y="209"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\GitHub\horse\src\Horse.Request.pas"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="167"/>
+        <CursorPos X="12" Y="191"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\dev\horse-jwt\src\Horse.JWT.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="41"/>
+        <CursorPos X="3" Y="320"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\GitHub\horse\src\Horse.Core.Param.pas"/>
+        <EditorIndex Value="5"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\GitHub\horse\src\Horse.Commons.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="101"/>
+        <CursorPos X="3" Y="118"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\GitHub\horse\src\Horse.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="3" Y="51"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\GitHub\horse\src\Horse.Response.pas"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="20"/>
+        <CursorPos X="15" Y="49"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\fpcupdeluxe\Laz32\fpcsrc\packages\fcl-web\src\base\fpmimetypes.pp"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="63"/>
+        <CursorPos X="10" Y="80"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="modules\horse\src\Horse.Commons.pas"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="5" Y="24"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="modules\horse\src\Horse.Response.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="85"/>
+        <CursorPos X="44" Y="110"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="128" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="143" Column="41" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="Console.lpr"/>
+        <Caret Line="18" Column="72"/>
+      </Position>
+      <Position>
+        <Filename Value="Console.lpr"/>
+        <Caret Line="17" Column="56"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="102" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="106" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="106" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="Console.lpr"/>
+        <Caret Line="17" Column="50"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="102" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="106" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="147" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="102" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="106" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="108" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="109" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="102" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="106" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="104" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="106" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="145" Column="9" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\src\Horse.StaticFiles.pas"/>
+        <Caret Line="144" Column="7" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="modules\horse\src\Horse.Response.pas"/>
+        <Caret Line="32" Column="14"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
